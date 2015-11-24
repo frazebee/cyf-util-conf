@@ -3,37 +3,8 @@ var direct = 'DIRECT';
 var http_proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 
 var gfwed_list = [
-	"akamai.net",
-	"akamaihd.net",
-	"amazon.com",
-	"appspot.com",
-	"archive.org",
-	"bitly.com",
-	"blogger.com",
-	"blogspot.com",
-	"cl.ly",
-	"facebook.com",
-	"fbcdn.net",
-	"feedburner.com",
-	"feedsportal.com",
-	"gmail.com",
-	"goo.gl",
-	"google.com",
-	"j.mp",
-	"mediafire.com",
-	"openvpn.net",
-	"osfoora.com",
-	"posterous.com",
-	"rapidshare.com",
-	"t.co",
-	"twimg.com",
-	"twitpic.com",
-	"twitter.com",
-	"vimeo.com",
-	"wordpress.com",
-	"yfrog.com",
-	"youtube.com",
-	"ytimg.com"
+	"163.com",
+	"126.net"
 ];
 
 var gfwed = {};
